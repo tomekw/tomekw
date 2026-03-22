@@ -11,6 +11,7 @@ I need to understand everything. Both a blessing and a curse.
 
 ## Me online
 
+* [Personal website / blog](https://tomekw.com)
 * [GitHub](https://github.com/tomekw)
 * [Mastodon](https://functional.cafe/@tomekw)
 * [Twitter / X](https://x.com/_tomekw)
