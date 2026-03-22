@@ -19,16 +19,23 @@ I need to understand everything. Both a blessing and a curse.
 ## My projects
 
 * [hikari-cp](https://github.com/tomekw/hikari-cp)
+
   A Clojure wrapper to HikariCP JDBC connection pool
 * [tada](https://github.com/tomekw/tada)
+
   My opinionated Ada package manager / project builder
 * [tackle](https://github.com/tomekw/tackle)
+
   My extended Ada standard class library
 * [testy](https://github.com/tomekw/testy)
+
   Ada testing framework
 * [padlock](https://github.com/tomekw/padlock)
+
   LibreSSL's libtls in Ada
 * [simple_blockchain](https://github.com/tomekw/simple_blockchain)
+
   "What I cannot create, I do not understand", in Ada
 * [doom-parents](https://github.com/tomekw/doom-parents)
+
   A set of Doom Emacs mappings for manipulating parentheses and sexps
