@@ -12,6 +12,7 @@ I need to understand everything. Both a blessing and a curse.
 ## Me online
 
 * [Personal website / blog](https://tomekw.com)
+* [My Gemini capsule](https://portal.mozz.us/gemini/tomekw.com/?reader=1) (web proxy, canonical address: <gemini://tomekw.com>)
 * [GitHub](https://github.com/tomekw)
 * [Mastodon](https://functional.cafe/@tomekw)
 * [Twitter / X](https://x.com/_tomekw)
